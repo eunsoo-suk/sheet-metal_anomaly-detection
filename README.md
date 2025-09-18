@@ -23,7 +23,7 @@ The pipeline builds a feature bank from normal samples, applies thresholding, an
   
     - ground_truth: Defect masks (optional, matched by filename)
 
-**[Download Sheet Metal Dataset]**(https://drive.google.com/file/d/1tIISRI8wKw9y29Q90IK5fWrSc4f6UAeC/view?usp=drive_link)
+[Download Sheet Metal Dataset](https://drive.google.com/file/d/1tIISRI8wKw9y29Q90IK5fWrSc4f6UAeC/view?usp=drive_link)
 
 **⚙️ Workflow**
 
