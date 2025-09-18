@@ -7,6 +7,8 @@ The pipeline builds a feature bank from normal samples, applies thresholding, an
 
 **📂 Dataset Composition**
 
+[Download Sheet Metal Dataset](https://drive.google.com/file/d/1tIISRI8wKw9y29Q90IK5fWrSc4f6UAeC/view?usp=drive_link)
+
 **Train set**
 
 - train/good — normal samples
@@ -22,8 +24,6 @@ The pipeline builds a feature bank from normal samples, applies thresholding, an
     - bad: Evaluation images (normal and defective)
   
     - ground_truth: Defect masks (optional, matched by filename)
-
-[Download Sheet Metal Dataset](https://drive.google.com/file/d/1tIISRI8wKw9y29Q90IK5fWrSc4f6UAeC/view?usp=drive_link)
 
 **⚙️ Workflow**
 
